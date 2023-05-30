@@ -2,7 +2,7 @@
 
 This is "React - The Complete Guide (incl Hooks, React Router, Redux)" course from Udemy provided by Maximilian Schwarzmüller.
 
-Commit messages are used to display continuity and to inspire my future self and others that it is possible to take such an extensive course in two weeks.
+Commit messages used to display what I did each day to show continuity and that the course can be finished in two weeks. But then I messed around and deleted the entire commit history, so no commit messages for you. All the content is still the same though.
 
 ### Stats
 
