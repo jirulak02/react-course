@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/229.704b1d7a.chunk.css","mappings":"AAAA,sBACC,yBACD","sources":["components/PostItem.module.css"],"sourcesContent":[".item {\n\ttext-transform: capitalize;\n}\n"],"names":[],"sourceRoot":""}

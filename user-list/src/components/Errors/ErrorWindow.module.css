@@ -1,0 +1,43 @@
+.container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: rgba(0, 0, 0, 0.6);
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.wrapper {
+	background-color: white;
+	width: 30rem;
+	margin: auto;
+	border-radius: 15px;
+}
+
+.title {
+	background-color: purple;
+	padding: 1rem;
+	border-radius: 15px 15px 0 0;
+	color: white;
+	font-weight: 900;
+	font-size: large;
+}
+
+.message {
+	padding: 1rem;
+	height: 5rem;
+	position: relative;
+}
+
+.button {
+	color: white;
+	background-color: purple;
+	padding: 8px 20px;
+	border: none;
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
+}
