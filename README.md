@@ -1,4 +1,4 @@
-# React-course - 2023
+# react-course - 2023
 
 This is "React - The Complete Guide (incl Hooks, React Router, Redux)" course from Udemy provided by Maximilian Schwarzmüller.
 
@@ -6,7 +6,7 @@ Commit messages used to display what I did each day to show continuity and that 
 
 ### Stats
 
--   Amount of course content: 50h
--   Time spent on this course: 90h (average of 7h a day)
+- Amount of course content: 50h
+- Time spent on this course: 90h (average of 7h a day)
 
 Jiří Šimeček
